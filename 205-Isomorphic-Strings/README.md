@@ -9,9 +9,11 @@ All occurrences of a character must be replaced with another character while pre
 ###### Example 1:
 
 Input: s = "egg", t = "add"
+
 Output: true
 
 ###### Example 2:
 
 Input: s = "foo", t = "bar"
+
 Output: false

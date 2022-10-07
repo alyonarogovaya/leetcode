@@ -7,4 +7,5 @@ The majority element is the element that appears more than ⌊n / 2⌋ times. Yo
 ###### Example:
 
 Input: nums = [3,2,3]
+
 Output: 3
