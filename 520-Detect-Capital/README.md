@@ -10,9 +10,11 @@ Given a string word, return true if the usage of capitals in it is right.
 ###### Example 1:
 
 Input: word = "USA"
+
 Output: true
 
 ###### Example 2:
 
 Input: word = "FlaG"
+
 Output: false

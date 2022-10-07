@@ -5,9 +5,11 @@ Given a string s, find the first non-repeating character in it and return its in
 ###### Example 1:
 
 Input: s = "leetcode"
+
 Output: 0
 
 ###### Example 2:
 
 Input: s = "loveleetcode"
+
 Output: 2
